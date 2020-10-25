@@ -1,0 +1,13 @@
+{
+    "name": "maxime/twig",
+    "description": "quete twig",
+    "authors": [
+        {
+            "name": "Maxime Autechaud",
+            "email": "maxime.autechaud@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
